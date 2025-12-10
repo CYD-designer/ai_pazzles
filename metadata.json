@@ -1,0 +1,5 @@
+{
+  "name": "AI_Puzzle",
+  "description": "Интерактивная игра-пазл (12+). Логика, рейтинг, PZZLS.",
+  "requestFramePermissions": []
+}
